@@ -1,0 +1,105 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "name": "campaign",
+                "description": "campaign test",
+                "startDate": "2023-10-19",
+                "endDate": "2023-10-31",
+                "TVLocations": "TV",
+                "published": true,
+                "createdAt": "2023-10-08T14:18:37.404Z",
+                "updatedAt": "2023-10-08T14:37:46.657Z",
+                "locale": "en",
+                "contents": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "title": "test",
+                                "description": "test description",
+                                "TVs": "TV1",
+                                "isScheduled": true,
+                                "startDate": "2023-10-10",
+                                "endDate": "2023-10-17",
+                                "createdAt": "2023-10-08T14:18:10.233Z",
+                                "updatedAt": "2023-10-08T14:18:10.233Z",
+                                "locale": "en",
+                                "media": {
+                                    "data": {
+                                        "id": 1,
+                                        "attributes": {
+                                            "name": "1r.png",
+                                            "alternativeText": null,
+                                            "caption": null,
+                                            "width": 288,
+                                            "height": 142,
+                                            "formats": {
+                                                "thumbnail": {
+                                                    "ext": ".png",
+                                                    "url": "/uploads/thumbnail_1r_640e0ac64a.png",
+                                                    "hash": "thumbnail_1r_640e0ac64a",
+                                                    "mime": "image/png",
+                                                    "name": "thumbnail_1r.png",
+                                                    "path": null,
+                                                    "size": 0.7,
+                                                    "width": 245,
+                                                    "height": 121
+                                                }
+                                            },
+                                            "hash": "1r_640e0ac64a",
+                                            "ext": ".png",
+                                            "mime": "image/png",
+                                            "size": 0.16,
+                                            "url": "/uploads/1r_640e0ac64a.png",
+                                            "previewUrl": null,
+                                            "provider": "local",
+                                            "provider_metadata": null,
+                                            "createdAt": "2023-10-08T14:18:00.723Z",
+                                            "updatedAt": "2023-10-08T14:18:00.723Z"
+                                        }
+                                    }
+                                },
+                                "localizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    ]
+                },
+                "localizations": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "name": "test 1",
+                "description": "test 1 description",
+                "startDate": null,
+                "endDate": null,
+                "TVLocations": null,
+                "published": null,
+                "createdAt": "2023-10-09T08:24:15.470Z",
+                "updatedAt": "2023-10-09T08:24:15.470Z",
+                "locale": "en",
+                "contents": {
+                    "data": []
+                },
+                "localizations": {
+                    "data": []
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}
