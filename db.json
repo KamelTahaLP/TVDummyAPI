@@ -66,6 +66,13 @@
                 }
               }
             }
+          ]
+        },
+        "localizations": {
+          "data": []
+        }
+      }
+    }
   ],
   "meta": {
     "pagination": {
