@@ -190,6 +190,58 @@
                   "data": []
                 }
               }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "title": "450",
+                "description": "test description",
+                "TVs": "TV1",
+                "isScheduled": true,
+                "startDate": "2023-10-10",
+                "endDate": "2023-10-17",
+                "createdAt": "2023-10-08T14:18:10.233Z",
+                "updatedAt": "2023-10-08T14:18:10.233Z",
+                "locale": "en",
+                "media": {
+                  "data": {
+                    "id": 1,
+                    "attributes": {
+                      "name": "450.jpg",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 288,
+                      "height": 142,
+                      "formats": {
+                        "thumbnail": {
+                          "ext": ".jpg",
+                          "url": "https://via.placeholder.com/450",
+                          "hash": "thumbnail_1r_640e0ac64a",
+                          "mime": "image/jpg",
+                          "name": "thumbnail_1r.png",
+                          "path": null,
+                          "size": 0.7,
+                          "width": 245,
+                          "height": 121
+                        }
+                      },
+                      "hash": "1r_640e0ac64a",
+                      "ext": ".jpg",
+                      "mime": "image/jpg",
+                      "size": 0.16,
+                      "url": "https://via.placeholder.com/450",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-10-08T14:18:00.723Z",
+                      "updatedAt": "2023-10-08T14:18:00.723Z"
+                    }
+                  }
+                },
+                "localizations": {
+                  "data": []
+                }
+              }
             }
           ]
         },
