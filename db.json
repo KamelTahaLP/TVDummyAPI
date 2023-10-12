@@ -124,6 +124,79 @@
           "data": []
         }
       }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "secondCampaign",
+        "description": "campaign test",
+        "startDate": "2023-10-19",
+        "endDate": "2023-10-31",
+        "TVLocations": "TV",
+        "published": true,
+        "createdAt": "2024-10-08T14:18:37.404Z",
+        "updatedAt": "2024-10-08T14:37:46.657Z",
+        "locale": "en",
+        "contents": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "title": "Motion",
+                "description": "test description",
+                "TVs": "TV1",
+                "isScheduled": true,
+                "startDate": "2023-10-10",
+                "endDate": "2023-10-17",
+                "createdAt": "2023-10-08T14:18:10.233Z",
+                "updatedAt": "2023-10-08T14:18:10.233Z",
+                "locale": "en",
+                "media": {
+                  "data": {
+                    "id": 1,
+                    "attributes": {
+                      "name": "motion.mp4",
+                      "alternativeText": null,
+                      "caption": null,
+                      "width": 288,
+                      "height": 142,
+                      "formats": {
+                        "thumbnail": {
+                          "ext": ".mp4",
+                          "url": "https://static.videezy.com/system/resources/previews/000/035/049/original/Shopping-online-1.mp4",
+                          "hash": "thumbnail_1r_640e0ac64a",
+                          "mime": "video/mp4",
+                          "name": "thumbnail_1r.png",
+                          "path": null,
+                          "size": 0.7,
+                          "width": 245,
+                          "height": 121
+                        }
+                      },
+                      "hash": "1r_640e0ac64a",
+                      "ext": ".mp4",
+                      "mime": "video/mp4",
+                      "size": 0.16,
+                      "url": "https://static.videezy.com/system/resources/previews/000/035/049/original/Shopping-online-1.mp4",
+                      "previewUrl": null,
+                      "provider": "local",
+                      "provider_metadata": null,
+                      "createdAt": "2023-10-08T14:18:00.723Z",
+                      "updatedAt": "2023-10-08T14:18:00.723Z"
+                    }
+                  }
+                },
+                "localizations": {
+                  "data": []
+                }
+              }
+            }
+          ]
+        },
+        "localizations": {
+          "data": []
+        }
+      }
     }
   ],
   "meta": {
